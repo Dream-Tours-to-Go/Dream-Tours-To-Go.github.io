@@ -54,7 +54,7 @@ Cropped <a title="By Jaafar Alnasser [CC-BY-2.0 (//creativecommons.org/licenses/
 
 <div id="p2" class="page">
  <div class="picture-book-page-image">
-  <img src="images/1024px-avalon-affinity-ship-2009-017-by-rolf-heinrich-koln-cc-by-3.0.jpg" alt="'Avalon Affinity (ship, 2009) 017' by User:Rolf_H. on Wikimedia Commons, cc-by-3.0"/>
+  <img src="images/1024px-chateau_tournon-6-by-charcutaille-on-wikimedia-commons-cc-by-sa-3.0.jpg" alt="'Chateau tournon-6' by User:Charcutaille on Wikimedia Commons, cc-by-3.0"/>
  </div>
  <div class="picture-book-page-text">
   <header>
